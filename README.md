@@ -25,4 +25,4 @@ This repository contains the design and simulation of a low-cost, programmable a
 
 - ## 👤 Author & Collaborators
 - **Student:** Abishek Imandi  
-- Tutor & unit convenor: Julio Romero & 
+- Tutor & unit convenor: Julio Romero & ZongyiJiang
