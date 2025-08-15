@@ -10,7 +10,7 @@ This repository contains the design and simulation of a low-cost, programmable a
 - Simulate logic using flowcharts and word-based code before hardware implementation.
 
 ## 🗂️ Repository Structure
-├── Step1_Analysis/ # Problem definition, assumptions, inputs/outputs 
+├── Step 1_Analysis/ # Problem definition, assumptions, inputs/outputs 
 ├── Step2_Data/ # Data tables and sample values
 ├── Step3_Flowchart/ # Flowchart of system logic (Draw.io files and exports) 
 ├── Step4_Word_Code/ # Word-based code implementation 
@@ -25,6 +25,4 @@ This repository contains the design and simulation of a low-cost, programmable a
 
 - ## 👤 Author & Collaborators
 - **Student:** Abishek Imandi  
-- **Tutor & Lecturer:** [Added as GitHub collaborators]
-
-- 
+- Tutor & unit convenor: Julio Romero & 
